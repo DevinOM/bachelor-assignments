@@ -1,3 +1,10 @@
+/**
+ * Author: Devin O. Madrigal
+ * Date Submitted: 2023-04-23
+ * Description: This application demos Dijkstra's Algorithm using a self-created
+ *  Node class.
+ */
+
 import java.util.*;
 
 public class Main {
